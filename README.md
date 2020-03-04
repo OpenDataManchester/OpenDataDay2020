@@ -9,6 +9,6 @@ Data and anything else for Open Data Day 2020 Hack Day, 7th March 2020.
 
 [OpenSky Network API](https://opensky-network.org/apidoc/)
 
-[Geneva Dictators repository](https://github.com/OpenDataManchester/geneva-dictators/)
+[Geneva Dictators repository](https://github.com/OpenDataManchester/geneva-dictators/) Twitter bot that posts when a aircraft of interest lands in Geneva
 
 [Fuel Burn Estimation Using Real Track Data](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120002710.pdf) Paper on fuel modelling
