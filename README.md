@@ -13,4 +13,4 @@ Data and anything else for Open Data Day 2020 Hack Day, 7th March 2020.
 
 [Fuel Burn Estimation Using Real Track Data](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120002710.pdf) Paper on fuel modelling
 
-[Analysis of Aircraft Fuel Burn and Emissions in the Landing and Take Off Cycle using Operational Data](https://www.mit.edu/~hamsa/pubs/ICRAT_2014_YSC_HB_final.pdf) Paper on the fuel burn rates at different stages of flight
+[Analysis of Aircraft Fuel Burn and Emissions in the Landing and Take Off Cycle using Operational Data](https://www.mit.edu/~hamsa/pubs/ICRAT_2014_YSC_HB_final.pdf) Paper on fuel burn rates at different stages of flight
