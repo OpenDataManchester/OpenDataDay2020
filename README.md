@@ -16,3 +16,7 @@ Data and anything else for Open Data Day 2020 Hack Day, 7th March 2020.
 [Analysis of Aircraft Fuel Burn and Emissions in the Landing and Take Off Cycle using Operational Data](https://www.mit.edu/~hamsa/pubs/ICRAT_2014_YSC_HB_final.pdf) Paper on fuel burn rates at different stages of flight
 
 [European Aviation Fuel Burn and Emissions Inventory System for the European Environment Agency](https://www.eurocontrol.int/sites/default/files/content/documents/201807-european-aviation-fuel-burn-emissions-system-eea-v2.pdf) Very long paper on emmissions calculations for different aircraft
+
+[Aviation Edge](https://aviation-edge.com/developers/) Commercial API which provides flight tracking and timetables
+
+[Turning Data at REST into Data in Motion with Kafka Streams](https://www.confluent.io/blog/data-stream-processing-with-kafka-streams-bitrock-and-confluent/) A use-case very similar to what we're looking at, using Kafka and the Aviation Edge commercial API
