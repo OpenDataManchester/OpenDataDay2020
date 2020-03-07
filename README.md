@@ -20,3 +20,5 @@ Data and anything else for Open Data Day 2020 Hack Day, 7th March 2020.
 [Aviation Edge](https://aviation-edge.com/developers/) Commercial API which provides flight tracking and timetables
 
 [Turning Data at REST into Data in Motion with Kafka Streams](https://www.confluent.io/blog/data-stream-processing-with-kafka-streams-bitrock-and-confluent/) A use-case very similar to what we're looking at, using Kafka and the Aviation Edge commercial API
+
+[Dump1090](https://github.com/flightaware/dump1090) A piece of software for use with a software defined radio to track aircraft currently overhead. Usable offline with a usb TV tuner. This fork also includes a database of icao24 codes which some of the other systems here use, allowing to track certain aircraft types and registrations 
