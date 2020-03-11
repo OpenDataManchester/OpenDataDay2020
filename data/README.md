@@ -70,3 +70,14 @@ The Live Dashboard Group were able to include this financial data in PowerBI as 
 airline code. The field `First Class` was displayed as `High`, `Medium` or `Low` for any flight that was included in the 
 finance table.
 
+
+## What's next?
+
+The next steps could include:
+
+- Finding a better source of greenhouse gas emissions data at a copmany level. 
+  This is usually behind a paywall (such as Bloomberg or Refinitiv) unless they have self-reported
+  via [CDP](http://www.cdp.net/) which is highly unlikely for an airline.
+- Look into what quoted companies may declare in their annual reports, perhaps we can manually scrape.
+- Automating the processes.
+- Introduce better links to the wider project.
