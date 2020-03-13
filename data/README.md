@@ -64,6 +64,12 @@ this figure to classify each airline as follows:
 
 I manually put these codes into the table and saved it in the `joined` folder as `week-MAN.csv`.
 
+Greenhouse gas emissions and revenue may be found in a company's annual report. All publicly-owned (quoted)
+companies must file a report to the national office 
+([Companies House](https://www.gov.uk/government/organisations/companies-house) in the UK) 
+though you can also find them from companies' corporate websites (for example, 
+[easyJet plc](http://corporate.easyjet.com/)).
+
 ### Include in visualisation
 
 The Live Dashboard Group were able to include this financial data in PowerBI as the `financial_data` table, linking on the
